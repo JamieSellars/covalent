@@ -71,7 +71,7 @@ A theme file is a simple Sass file that defines your palettes and passes them to
 
 // (optional) Additional themes
 @import '~@covalent/markdown/markdown-theme';
-@import '~@covalent/highlight/highlight-theme';\
+@import '~@covalent/highlight/highlight-theme';
 
 @include mat-core();
 
